@@ -1,4 +1,4 @@
-# 42 Sâo Paulo
+# 42 São Paulo
 
 ##### 🇧🇷 > Projetos desenvolvidos na primeira fase da formação.
 ##### 🇺🇸 > Projects developed during first phase of formation.
